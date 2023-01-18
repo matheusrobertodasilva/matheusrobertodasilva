@@ -15,18 +15,16 @@
 </div>
 
 ### My Stats
-
+username= matheusrobertodasilva
 <div>
   <a href="https://github.com/matheusrobertodasilva">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=7&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusrobertodasilva&show_icons=true&theme=radical"/>
   </a>
 </div>
 
 ### Contacts
 <div>
   <a href="https://www.linkedin.com/in/matheusrobertodasilva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
+  <a href=""><img src"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
