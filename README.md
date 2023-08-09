@@ -19,9 +19,3 @@
     <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusrobertodasilva&show_icons=true&theme=dark"/>
   </a>
 </div>
-
-### Contacts
-<div>
-  <a href="https://www.linkedin.com/in/matheusrobertodasilva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href=""><img src"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
