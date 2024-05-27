@@ -10,12 +10,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/> 
   
 </div>
-
-### My Stats
-
-<div>
-  <a href="https://github.com/matheusrobertodasilva">
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusrobertodasilva&layout=compact&theme=dark"/>
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusrobertodasilva&show_icons=true&theme=dark"/>
-  </a>
-</div>
